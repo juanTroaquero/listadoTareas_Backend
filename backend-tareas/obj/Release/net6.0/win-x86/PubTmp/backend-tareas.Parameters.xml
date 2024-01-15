@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="backend-tareas-service-01" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Falcon\\Desktop\\vue\\backend-tareas\\backend-tareas\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="backend_tareas.Context.AplicationDbContext" description="" value="Data Source=backend-tareas-01dbserver.database.windows.net,1433;Initial Catalog=backend-tareas_db_01;User ID=juan;Password=2410FGD/99jj" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Falcon\\Desktop\\vue\\backend-tareas\\backend-tareas\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\EFSQLScripts\\backend_tareas\.Context\.AplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

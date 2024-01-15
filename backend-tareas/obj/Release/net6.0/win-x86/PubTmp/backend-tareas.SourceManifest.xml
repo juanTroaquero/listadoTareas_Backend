@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Falcon\Desktop\vue\backend-tareas\backend-tareas\obj\Release\net6.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Falcon\Desktop\vue\backend-tareas\backend-tareas\obj\Release\net6.0\win-x86\PubTmp\EFSQLScripts\backend_tareas.Context.AplicationDbContext.sql" />
+</sitemanifest>
